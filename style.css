@@ -1,0 +1,16 @@
+h1
+{
+	color: orangered; 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("OlympicBackground.jpg");
+	background-position: center; 
+	background-size: cover;
+}
+
+#Canvas{
+	background-color:whitesmoke;
+	border-width: 3px;
+	border-style: solid;
+}
